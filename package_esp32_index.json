@@ -12,12 +12,12 @@
         {
           "name": "esp32",
           "architecture": "esp32",
-          "version": "single-core",
+          "version": "2.0.2",
           "category": "ESP32",
-          "url": "https://github.com/CubePilot/arduino-esp32/releases/download/single-core/esp32-single-core.zip",
-          "archiveFileName": "esp32-single-core.zip",
-          "checksum": "SHA-256:288420a6fa61806670504a85b3595dd72861bd89e0b7bcaf87929cfe748c5bf0",
-          "size": "149459115",
+          "url": "https://github.com/CubePilot/arduino-esp32/releases/download/2.0.2/esp32-2.0.2.zip",
+          "archiveFileName": "esp32-2.0.2.zip",
+          "checksum": "SHA-256:cc0729f69adb654563e194df5d790a431abefce7b33d7a22b03c90d0b8d13a37",
+          "size": "149356297",
           "help": {
             "online": ""
           },
